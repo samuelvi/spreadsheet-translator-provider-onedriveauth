@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6caf56e36c815ab9704830a128b4980d",
+    "content-hash": "8df7e252eb2bddbda82f26584113cb2b",
     "packages": [
         {
             "name": "guzzlehttp/guzzle",
@@ -562,6 +562,7 @@
                     "Atico\\SpreadsheetTranslator\\Core\\": "./src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -577,8 +578,8 @@
                 "spreadsheet translations core module"
             ],
             "support": {
-                "source": "https://github.com/samuelvi/spreadsheet-translator-core/tree/v8.4.0",
-                "issues": "https://github.com/samuelvi/spreadsheet-translator-core/issues"
+                "issues": "https://github.com/samuelvi/spreadsheet-translator-core/issues",
+                "source": "https://github.com/samuelvi/spreadsheet-translator-core/tree/v8.4.0"
             },
             "time": "2025-10-26T15:38:13+00:00"
         },
@@ -2669,9 +2670,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "samuelvi/spreadsheet-translator-core": 20
-    },
+    "stability-flags": {},
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
