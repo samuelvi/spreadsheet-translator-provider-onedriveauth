@@ -127,7 +127,7 @@ vendor/bin/phpunit tests/AuthTest.php
 ### Code Quality
 
 ```bash
-# Static analysis
+# Static analysis with PHPStan (level 8 + Mockery extension)
 make phpstan
 
 # Code refactoring (dry-run)
