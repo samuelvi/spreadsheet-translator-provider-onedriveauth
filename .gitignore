@@ -1,7 +1,6 @@
 vendor
 .idea
 .env
-composer.lock
 .claude
 .phpunit.cache
 coverage

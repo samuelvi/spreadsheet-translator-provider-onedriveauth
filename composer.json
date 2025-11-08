@@ -14,7 +14,7 @@
         }
     },
     "require": {
-        "samuelvi/spreadsheet-translator-core": "^8.0|dev-master",
+        "samuelvi/spreadsheet-translator-core": "^8.0",
         "php": ">=8.4",
         "guzzlehttp/guzzle": "^7.7"
     },
@@ -23,12 +23,5 @@
         "phpunit/phpunit": "^11.0",
         "phpstan/phpstan": "^2.0",
         "mockery/mockery": "^1.6"
-    },
-    "repositories": [{
-        "type": "path",
-        "url": "../../Core",
-        "options": {
-            "symlink": true
-        }
-    }]
+    }
 }
